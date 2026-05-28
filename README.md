@@ -26,11 +26,12 @@
 <div>  
 project-folder Name/</br>
 │── Data_Analyzer_Using_Funcational_Treat.py</br>
+│── README.md</br>
 │── project4_1.png</br>
 │── project4_2.png</br>
 │── project4_6.png</br>
 │── project4_7.png</br>
-│── README.md</br>
+
 
 </div>
 
