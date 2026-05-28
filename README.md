@@ -39,7 +39,7 @@ project-folder Name/</br>
 
 <img src="project4_1.png" width="500"/>
 <img src="project4_2.png" width="500"/>
-<img src="project4_6.phg" width="500"/>
+<img src="project4_6.png" width="500"/>
 <img src="project4_7.png" width="500"/>
 
 
